@@ -1,0 +1,11 @@
+{
+  "name":"Lokalsport Schwerin",
+  "short_name":"Lokalsport",
+  "description":"Tabellen, Ergebnisse und nächste Heimspiele lokaler Schweriner Teams",
+  "start_url":"./",
+  "scope":"./",
+  "display":"standalone",
+  "background_color":"#07111f",
+  "theme_color":"#0a1628",
+  "icons":[{"src":"assets/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
