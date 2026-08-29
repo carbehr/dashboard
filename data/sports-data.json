@@ -1,6 +1,6 @@
 {
   "season": "2026/27",
-  "updatedAt": "2026-08-29T12:04:22.204262+02:00",
+  "updatedAt": "2026-08-29T18:43:33.248895+02:00",
   "note": "Automatisch aktualisiert. Bei Parserfehlern bleiben die letzten guten Werte erhalten und die Kachel wird als älter markiert.",
   "clubs": [
     {
@@ -17,7 +17,7 @@
       "sourceName": "SSC / VBL",
       "sourceUrl": "https://www.schweriner-sc.com/spielplan/",
       "sourceStatus": "ok",
-      "dataUpdatedAt": "2026-08-29T12:04:22.204262+02:00",
+      "dataUpdatedAt": "2026-08-29T18:43:33.248895+02:00",
       "error": null
     },
     {
@@ -34,7 +34,7 @@
       "sourceName": "volley.de",
       "sourceUrl": "https://www.volley.de/halle/erg/qp/orga-1/saison-2026/bereich-1000/wid-12731/wsid-0//mode-s/",
       "sourceStatus": "ok",
-      "dataUpdatedAt": "2026-08-29T12:04:22.204262+02:00",
+      "dataUpdatedAt": "2026-08-29T18:43:33.248895+02:00",
       "error": null
     },
     {
@@ -51,7 +51,7 @@
       "sourceName": "volley.de / DVV",
       "sourceUrl": "https://www.volley.de/halle/erg/qp/orga-1/saison-2026/bereich-1000/wid-12730/wsid-0//mode-s/",
       "sourceStatus": "ok",
-      "dataUpdatedAt": "2026-08-29T12:04:22.204262+02:00",
+      "dataUpdatedAt": "2026-08-29T18:43:33.248895+02:00",
       "error": null
     },
     {
@@ -68,7 +68,7 @@
       "sourceName": "FUSSBALL.DE / NOFV",
       "sourceUrl": "https://www.fussball.de/mannschaft/fc-mecklenburg-schwerin-fc-mecklenburg-schwerin-mecklenburg-vorpommern/-/saison/2627/team-id/01HEF5JJVO000000VV0AG80NVTE4NR7G",
       "sourceStatus": "ok",
-      "dataUpdatedAt": "2026-08-29T12:04:22.204262+02:00",
+      "dataUpdatedAt": "2026-08-29T18:43:33.248895+02:00",
       "error": null
     },
     {
@@ -85,7 +85,7 @@
       "sourceName": "FUSSBALL.DE",
       "sourceUrl": "https://www.fussball.de/mannschaft/msv-pampow-msv-pampow-mecklenburg-vorpommern/-/saison/2627/team-id/011MI9OV30000000VTVG0001VTR8C1K7",
       "sourceStatus": "ok",
-      "dataUpdatedAt": "2026-08-29T12:04:22.204262+02:00",
+      "dataUpdatedAt": "2026-08-29T18:43:33.248895+02:00",
       "error": null
     },
     {
@@ -93,7 +93,7 @@
       "name": "SG Dynamo Schwerin",
       "sport": "Fußball",
       "league": "Verbandsliga Mecklenburg-Vorpommern",
-      "rank": "7",
+      "rank": "9",
       "lastResult": "Liga noch nicht gestartet",
       "lastGameAt": null,
       "nextHomeAt": "2026-09-12T14:00:00+02:00",
@@ -102,7 +102,7 @@
       "sourceName": "FUSSBALL.DE",
       "sourceUrl": "https://www.fussball.de/mannschaft/sg-dynamo-schwerin-sg-dynamo-schwerin-ev-mecklenburg-vorpommern/-/saison/2627/team-id/011MIB2D60000000VTVG0001VTR8C1K7",
       "sourceStatus": "ok",
-      "dataUpdatedAt": "2026-08-29T12:04:22.204262+02:00",
+      "dataUpdatedAt": "2026-08-29T18:43:33.248895+02:00",
       "error": null
     },
     {
