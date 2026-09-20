@@ -1,6 +1,6 @@
 {
   "season": "2026/27",
-  "updatedAt": "2026-09-20T13:23:51.581116+02:00",
+  "updatedAt": "2026-09-20T18:05:57.083222+02:00",
   "note": "Automatisch aktualisiert. Bei Parserfehlern bleiben die letzten guten Werte erhalten und die Kachel wird als älter markiert.",
   "clubs": [
     {
@@ -17,7 +17,7 @@
       "sourceName": "SSC / VBL",
       "sourceUrl": "https://www.schweriner-sc.com/spielplan/",
       "sourceStatus": "ok",
-      "dataUpdatedAt": "2026-09-20T13:23:51.581116+02:00",
+      "dataUpdatedAt": "2026-09-20T18:05:57.083222+02:00",
       "error": null
     },
     {
@@ -25,16 +25,16 @@
       "name": "SSC Herren Volleyball",
       "sport": "Volleyball",
       "league": "Regionalliga Nord Männer",
-      "rank": "6",
-      "lastResult": "Noch kein Saisonspiel",
-      "lastGameAt": null,
+      "rank": "1",
+      "lastResult": "bei TSB Flensburg · 0:3",
+      "lastGameAt": "2026-09-20T15:00:00+02:00",
       "nextHomeAt": "2026-09-26T18:00:00+02:00",
       "nextHomeOpponent": "vs TuS H/M Kiel",
       "nextHomeGame": "26.09.2026 · 18:00 · vs TuS H/M Kiel",
       "sourceName": "volley.de",
       "sourceUrl": "https://www.volley.de/halle/erg/qp/orga-1/saison-2026/bereich-1000/wid-12731/wsid-0//mode-s/",
       "sourceStatus": "ok",
-      "dataUpdatedAt": "2026-09-20T13:23:51.581116+02:00",
+      "dataUpdatedAt": "2026-09-20T18:05:57.083222+02:00",
       "error": null
     },
     {
@@ -51,7 +51,7 @@
       "sourceName": "volley.de / DVV",
       "sourceUrl": "https://www.volley.de/halle/erg/qp/orga-1/saison-2026/bereich-1000/wid-12730/wsid-0//mode-s/",
       "sourceStatus": "ok",
-      "dataUpdatedAt": "2026-09-20T13:23:51.581116+02:00",
+      "dataUpdatedAt": "2026-09-20T18:05:57.083222+02:00",
       "error": null
     },
     {
@@ -68,7 +68,7 @@
       "sourceName": "FUSSBALL.DE / NOFV",
       "sourceUrl": "https://www.fussball.de/mannschaft/fc-mecklenburg-schwerin-fc-mecklenburg-schwerin-mecklenburg-vorpommern/-/saison/2627/team-id/01HEF5JJVO000000VV0AG80NVTE4NR7G",
       "sourceStatus": "ok",
-      "dataUpdatedAt": "2026-09-20T13:23:51.581116+02:00",
+      "dataUpdatedAt": "2026-09-20T18:05:57.083222+02:00",
       "error": null
     },
     {
@@ -85,7 +85,7 @@
       "sourceName": "FUSSBALL.DE",
       "sourceUrl": "https://www.fussball.de/mannschaft/msv-pampow-msv-pampow-mecklenburg-vorpommern/-/saison/2627/team-id/011MI9OV30000000VTVG0001VTR8C1K7",
       "sourceStatus": "ok",
-      "dataUpdatedAt": "2026-09-20T13:23:51.581116+02:00",
+      "dataUpdatedAt": "2026-09-20T18:05:57.083222+02:00",
       "error": null
     },
     {
@@ -102,7 +102,7 @@
       "sourceName": "FUSSBALL.DE",
       "sourceUrl": "https://www.fussball.de/mannschaft/sg-dynamo-schwerin-sg-dynamo-schwerin-ev-mecklenburg-vorpommern/-/saison/2627/team-id/011MIB2D60000000VTVG0001VTR8C1K7",
       "sourceStatus": "ok",
-      "dataUpdatedAt": "2026-09-20T13:23:51.581116+02:00",
+      "dataUpdatedAt": "2026-09-20T18:05:57.083222+02:00",
       "error": null
     },
     {
